@@ -6,10 +6,15 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "cypress": "^9.6.0",
+    "eslint": "^8.15.0",
     "eslint-plugin-cypress": "^2.12.1"
   },
   "scripts": {
     "cy:open": "cypress open",
-    "cy:run": "cypress run"
+    "cy:run": "cypress run",
+    
+    "es": "eslint cypress/integration/sample_spec.js",
+    "es:dry": "eslint --fix-dry-run cypress/integration/sample_spec.js",
+    "es:fix": "eslint --fix cypress/integration/sample_spec.js"
   }
 }
