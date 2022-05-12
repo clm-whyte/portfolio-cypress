@@ -1,3 +1,6 @@
+---
+title: Blogging Like a Hacker
+---
 ## h2 not title
 
-[Repo](https://github.com/clm-whyte/portfolio-cypress)
+[Link to Repo](https://github.com/clm-whyte/portfolio-cypress)
