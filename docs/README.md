@@ -1,3 +1,2 @@
-# Cypress - Why I love and fear it in equal measure
-## Does this work?
+## My Plan
 [Repo](https://github.com/clm-whyte/portfolio-cypress)
